@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Listexer3", "Array_Listexer3\Array_Listexer3.csproj", "{7692F7E9-8F5C-421A-86CB-C7E49AD38227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7692F7E9-8F5C-421A-86CB-C7E49AD38227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7692F7E9-8F5C-421A-86CB-C7E49AD38227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7692F7E9-8F5C-421A-86CB-C7E49AD38227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7692F7E9-8F5C-421A-86CB-C7E49AD38227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C8BC14B-0DA0-4B7C-B76A-A2408E260F9B}
+	EndGlobalSection
+EndGlobal
